@@ -2,9 +2,7 @@ Hi, I’m @Bread4226
 -
  I’m interested in Gaming and Coding
  -
- I’m currently learning Javascript and C++
- -
- I’m looking to collaborate on WindowSimulators
+ I’m currently learning Javascript and Python
  -
  How to reach me Bread4226@gmail.com
 -
